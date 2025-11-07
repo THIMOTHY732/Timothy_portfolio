@@ -51,6 +51,4 @@ start index.html
 2. Paste the above content into it
 3. Commit → Push → Refresh your GitHub page
 
-You’ll now have a **stunning README** that looks great to both recruiters and collaborators 🚀  
-
-Would you like me to also generate a **LICENSE file (MIT License)** for your portfolio repo? It’s ideal for open-source projects and adds a professional touch.
+You’ll now have a **stunning README** that looks great to both recruiters and collaborators 🚀  .
