@@ -45,10 +45,3 @@ cd Timothy_portfolio
 start index.html
 
 ```
-
-### 🧭 What to Do Next
-1. Create a new file in your GitHub repo called **`README.md`**
-2. Paste the above content into it
-3. Commit → Push → Refresh your GitHub page
-
-You’ll now have a **stunning README** that looks great to both recruiters and collaborators 🚀  .
